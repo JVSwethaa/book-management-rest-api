@@ -104,6 +104,14 @@ Response:
 
 
 5. Delete Book
+**DELETE** /books/{id}
+Example:
+DELETE /books/1
+
+Response:
+204 No Content
+
+
 
 
 
