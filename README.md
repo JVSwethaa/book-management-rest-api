@@ -6,7 +6,8 @@ A beginner-friendly Book Management REST API built using Spring Boot.
 - Java
 - Spring Boot
 - Spring Data JPA
-- MySQL
+- Hibernate
+- MySQL / H2
 - Maven
 
 ## Features
