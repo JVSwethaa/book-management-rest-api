@@ -111,10 +111,6 @@ DELETE /books/1
 Response:
 204 No Content
 
-
-
-
-
 ## How to Run
 1. Clone the repository
 2. Configure database in application.properties
